@@ -1,3 +1,13 @@
+/*
+
+Primeira classe - doGet - Envia dados através do Get.
+Segunda slasse - doPost - Envia dados através do Post.
+Ambas utilizam carateristicas do atributo getWriter.
+
+fabricio.ayres@gmail.com - Fabricio Ayres Vieira 
+
+
+*/
 package br.javaweb.teste;
 
 import java.io.IOException;
