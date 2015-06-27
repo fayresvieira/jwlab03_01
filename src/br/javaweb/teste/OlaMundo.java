@@ -1,7 +1,11 @@
 /*
 
-Primeira classe - doGet - Envia dados através do Get.
-Segunda slasse - doPost - Envia dados através do Post.
+Classe OlaMundo e subclasse HttpServlet
+
+Método - doGet - Envia dados através do Get.
+Método - doPost - Envia dados através do Post.
+
+Ambas utilizam o componente ou classe HttpservletRequest.
 Ambas utilizam carateristicas do atributo getWriter.
 
 fabricio.ayres@gmail.com - Fabricio Ayres Vieira 
